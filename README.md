@@ -1,0 +1,2 @@
+# ominfood-salat
+ from local
